@@ -1,0 +1,1 @@
+# IWA8_Object_Literal_Syntax
