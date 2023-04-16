@@ -13,7 +13,5 @@ const sarahPostal = '0310'
 
 // Only change below this line
 
-
-
-console.log(leo, leo[address][postalCode])
-console.log(sarah, sarah[address][postalCode])
+console.log(leoName, leo[address][postalCode])
+console.log(saraName, sarah[address][postalCode])
